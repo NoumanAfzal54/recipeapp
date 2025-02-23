@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "239149054341",
+    "project_id": "fir-c60b3",
+    "storage_bucket": "fir-c60b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239149054341:android:b963751eaf4f301fdb6cec",
+        "android_client_info": {
+          "package_name": "com.popi.pop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtnb0yu6XgGbz4F_Hc_g5cjCHAIO7KMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239149054341:android:7d34d8aa21441957db6cec",
+        "android_client_info": {
+          "package_name": "com.noumanafzal.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtnb0yu6XgGbz4F_Hc_g5cjCHAIO7KMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239149054341:android:c8494a62db2d1ae8db6cec",
+        "android_client_info": {
+          "package_name": "com.noumanafzal.dumy1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtnb0yu6XgGbz4F_Hc_g5cjCHAIO7KMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
