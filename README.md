@@ -1,16 +1,19 @@
-# pop
+# Recipe App
 
 A new Flutter project.
 
-## Getting Started
+🧩 Key Features:
+🔍 Search recipes by name or ingredient
 
-This project is a starting point for a Flutter application.
+🍱 View detailed recipe info (title, image, ingredients, instructions)
 
-A few resources to get you started if this is your first Flutter project:
+❤️ Add to Favorites to save recipes for later
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📦 Fetch recipes from a public API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🗂️ Browse by category or meal type
+
+⏳ Asynchronous API loading with FutureBuilder
+
+📱 Smooth and responsive UI across Android and iOS
+
